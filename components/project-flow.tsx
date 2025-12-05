@@ -15,14 +15,15 @@ const projects = [
       "Participated in high-level system design",
       "Set up integration API gateway with 3rd party",
       "Pair working with 3rd party teams for E2E features",
-      "Migrated database from MySQL to Aurora RDS",
+      "Migrated database from MySQL to Aurora RDS"
     ],
     outcomes: [
       "Successfully launched Marketplace module within Tyme X Banking ecosystem",
       "Achieved 100% successful migration to Amazon Aurora RDS",
       "Enhanced system observability through monitoring solutions",
+      "Gitlab to Github migration completed seamlessly",
     ],
-    techStack: ["Java Spring Boot", "MySQL", "ECS", "Lambda", "DynamoDB", "CloudFormation"],
+    techStack: ["Java Spring Boot", "MySQL", "ECS", "N8N", "Lambda", "DynamoDB", "CloudFormation"],
   },
   {
     id: 2,

@@ -1,4 +1,4 @@
-import { Mail, Linkedin, MapPin } from "lucide-react"
+import { Mail, Linkedin, MapPin, Phone } from "lucide-react"
 
 export function ContactSection() {
   return (
@@ -28,6 +28,15 @@ export function ContactSection() {
             >
               <Linkedin size={20} className="group-hover:text-primary" />
               <span>linkedin.com/in/huynh-dinh-373573162</span>
+            </a>
+
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors group"
+            >
+              <Phone size={20} className="group-hover:text-primary" />
+              <span>+84 917642655</span>
             </a>
 
             <div className="flex items-center gap-3 text-muted-foreground">

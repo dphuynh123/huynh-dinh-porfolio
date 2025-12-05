@@ -7,7 +7,7 @@ const skillCategories = [
   },
   {
     title: "Frameworks",
-    skills: ["Java Spring Boot", "React", "Angular", ".NET Core", "NodeJS"],
+    skills: ["Java Spring Boot", "N8N", "React", "Angular", ".NET Core", "NodeJS"],
   },
   {
     title: "Database",
