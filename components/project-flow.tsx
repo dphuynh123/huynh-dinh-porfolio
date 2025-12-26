@@ -22,6 +22,7 @@ const projects = [
       "Achieved 100% successful migration to Amazon Aurora RDS",
       "Enhanced system observability through monitoring solutions",
       "Gitlab to Github migration completed seamlessly",
+      "Deployed a resilient microservices architecture on AWS ECS, increasing system availability and supporting high transaction volumes."
     ],
     techStack: ["Java Spring Boot", "MySQL", "ECS", "N8N", "Lambda", "DynamoDB", "CloudFormation"],
   },
@@ -42,7 +43,8 @@ const projects = [
     outcomes: [
       "Automated payment posting workflows, reducing manual workload",
       "Improved data consistency and transaction reliability",
-      "Enhanced team collaboration through clear documentation",
+      "Enhanced collaboration between engineering, product, and business teams through clear documentation and regular demonstrations",
+      "Understanding secure and compliant architecture, aligning with banking standards"
     ],
     techStack: ["AWS Step Functions", "Lambda", "DynamoDB", "Serverless", "Datadog", "EC2"],
   },
@@ -61,9 +63,10 @@ const projects = [
       "Maintained and monitored performance",
     ],
     outcomes: [
-      "Successfully implemented microservice architecture",
-      "Improved contract and debt management efficiency",
-      "Delivered stable and scalable enterprise platform",
+      "Successfully implemented microservice architecture to enhance system modularity and performance",
+      "Improved efficiency in contract and debt management processes through automated workflows and data integration",
+      "Enabled real-time tracking and visualization of corporate performance via an interactive dashboard",
+      "Delivered a stable and scalable enterprise web platform"
     ],
     techStack: ["Java Spring Boot", "NodeJS", "ReactJS", "Nginx", "MySQL", "Redis"],
   },
@@ -82,9 +85,9 @@ const projects = [
       "Implemented reporting service with visualizations",
     ],
     outcomes: [
-      "Delivered centralized insurance portal",
-      "Enabled real-time contract tracking and visualization",
-      "Enhanced decision-making with automated dashboards",
+      "Successfully delivered a centralized insurance portal",
+      "Enabled real-time contract tracking, organizational updates, and performance visualization",
+      "Improved internal communication through message and notification management, and enhanced decision-making with automated revenue and reporting dashboards",
     ],
     techStack: ["Java Spring Boot", "JPA", "ReactJS", "Material UI", "MS SQL"],
   },
