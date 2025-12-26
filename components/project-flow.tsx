@@ -4,6 +4,29 @@ import { ProjectCard } from "./project-card"
 
 const projects = [
   {
+    id: 11,
+    period: "2025 – ...",
+    company: "Solo Builder",
+    title: "",
+    description:
+      "To be an solo builder servings products that helps small business owners to automate their business processes and workflows.",
+    responsibilities: [
+      "Business requirement gathering and analysis",
+      "Setup AI model integration",
+      "End to end feature development",
+      "Infrastructure, Architecture setup and deployment",
+      "Gemeni AI integration",
+      "Self hosting and monitoring",
+    ],
+    outcomes: [
+      "OJS (Open Journal System) - https://ahphan.com",
+      "Porfolio - https://ahphan.com/profile",
+      "Ideation Engine - https://ahphan.com/ideation/home",
+      "Price Tracker - https://ahphan.com/price-tracker/home",
+    ],
+    techStack: ["Java Spring Boot", "NextJs", "React", "MySQL", "Docker", "Kong API Gateway", "CloudFlare", "Gemeni AI", "Grafana"],
+  },
+  {
     id: 1,
     period: "2024 – 2025",
     company: "Tyme X",
