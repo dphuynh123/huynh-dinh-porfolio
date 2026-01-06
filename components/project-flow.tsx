@@ -22,9 +22,9 @@ const projects = [
       "OJS (Open Journal System) - https://ahphan.com",
       "Porfolio - https://ahphan.com/profile",
       "Ideation Engine - https://ahphan.com/ideation/home",
-      "Price Tracker - https://ahphan.com/price-tracker/home",
+      "Price Tracker - https://ahphan.com/trink/home",
     ],
-    techStack: ["Java Spring Boot", "NextJs", "React", "MySQL", "Docker", "Kong API Gateway", "CloudFlare", "Gemeni AI", "Grafana"],
+    techStack: ["Java Spring Boot", "NextJs", "React-Ts", "MySQL", "Docker", "Kong API Gateway", "CloudFlare", "Gemeni AI", "Grafana"],
   },
   {
     id: 1,
