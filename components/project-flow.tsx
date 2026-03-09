@@ -20,7 +20,7 @@ const projects = [
     ],
     outcomes: [
       "OJS (Open Journal System) - https://ahphan.com",
-      "Porfolio - https://ahphan.com/profile",
+      "Porfolio - https://profile.ahphan.com",
       "Ideation Engine - https://ahphan.com/ideation/home",
       "Price Tracker - https://ahphan.com/trink/home",
     ],

@@ -10,3 +10,9 @@ services:
       - NODE_ENV=production
       - PORT=4000
     restart: unless-stopped
+    networks:
+      - ojs-network
+
+networks:
+  ojs-network:
+    external: true
